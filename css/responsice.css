@@ -1,0 +1,45 @@
+@media ( max-width:1320px ) {
+    a.navbar-brand {
+        width: 117px;
+    }
+    .slider-contant h1 {
+        padding-bottom: 33px;
+        margin-top: 43px;
+    }
+    .clint-logo ul {
+        padding-top: 87px;
+    }
+}
+
+@media ( max-width:1199px ) {
+    .menu ul li a {
+        padding: 7px 5px;
+    }
+    .h-icon a {
+        font-size: 17px;
+    }
+    .text-call h6 {
+        font-size: 11px;
+    }
+
+    .btn-primary {
+        padding: 7px 17px;
+    }
+    .phone h2 {
+        font-size: 33px;
+        border-right: 1px solid wheat;
+    }
+    .p-icon {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 23px;
+    }
+    .phone-number {
+        font-size: 22px;
+        padding-left: 23px;
+    }
+}
+@media ( max-width:993px ) {
+
+}
